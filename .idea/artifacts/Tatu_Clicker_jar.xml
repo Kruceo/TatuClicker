@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tatu Clicker:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="Tatu Clicker.jar">
+      <element id="module-output" name="Tatu Clicker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Librarys/JSoup/jsoup-1.14.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencv-454.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Java Projects/Autoclick/out/artifacts/Autoclick_jar/Autoclick.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

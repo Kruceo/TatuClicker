@@ -1,0 +1,20 @@
+if(isInHome){
+if(teoricalState == GoingToTreasureHunt){
+
+   EnterTreasureHunt;
+
+      }
+   if(teoricalState == SettingToRest){
+
+         GoToCharacterTab;
+
+            }
+
+
+   }
+
+
+
+teamplatesmatch metodos pra boolean int = 3 & 4
+
+
